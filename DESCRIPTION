@@ -1,0 +1,10 @@
+Package: mlgwsa
+Type: Package
+Title: Genome Wide-Association Study (mlgwsa)
+Version: 0.5
+Date: 2015-08-05
+Author: Saeid Amiri
+Maintainer: Saeid Amiri <saeid.amiri1@gmail.com>
+Description: This package implements the methods of Genome Wide-Association Study. 
+License: GPL (>= 2)
+LazyData: TRUE
